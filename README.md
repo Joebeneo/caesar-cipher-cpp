@@ -49,7 +49,7 @@ Shift 26: Khoor Zruog
 
 ## What I learned
 
-The Caesar cipher is a substitution cipher where each letter shifts by a fixed number of positions in the alphabet. It's trivially breakable — with only 26 possible keys, brute-force takes microseconds. This project demonstrates why simple substitution ciphers are not suitable for real-world encryption and how modular arithmetic is used in basic cryptographic operations.
+The Caesar cipher is a substitution cipher where each letter shifts by a fixed number of positions in the alphabet. It's trivially breakable, with only 26 possible keys, brute-force takes microseconds. This project demonstrates why simple substitution ciphers are not suitable for real-world encryption and how modular arithmetic is used in basic cryptographic operations.
 
 ## Author
 
